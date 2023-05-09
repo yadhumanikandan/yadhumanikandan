@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1503&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Yadhukrishnan;Welcome+to+My+Profile+%F0%9F%A4%96;Cyber+Security+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Web+Security+%E2%9A%99%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Penetration+Testing+%E2%9A%99%EF%B8%8F+;Microcontrollers+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 
+![](https://komarev.com/ghpvc/?username=yadhumanikandan&style=flat-square)
+
 <!--
 **yadhumanikandan/yadhumanikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
